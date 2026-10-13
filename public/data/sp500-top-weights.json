@@ -1,0 +1,5100 @@
+{
+  "years": [
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "byYear": {
+    "1994": [
+      {
+        "rank": 1,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 2.621
+      },
+      {
+        "rank": 2,
+        "ticker": "T (Old)",
+        "name": "AT&T Corp. (Old)",
+        "weight": 2.361
+      },
+      {
+        "rank": 3,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 2.267
+      },
+      {
+        "rank": 4,
+        "ticker": "KO",
+        "name": "The Coca Cola Co.",
+        "weight": 1.991
+      },
+      {
+        "rank": 5,
+        "ticker": "RD",
+        "name": "Royal Dutch Petroleum",
+        "weight": 1.736
+      },
+      {
+        "rank": 6,
+        "ticker": "MO",
+        "name": "Altria Group Inc.",
+        "weight": 1.486
+      },
+      {
+        "rank": 7,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores Inc",
+        "weight": 1.468
+      },
+      {
+        "rank": 8,
+        "ticker": "MRK",
+        "name": "Merck & Co Inc",
+        "weight": 1.442
+      },
+      {
+        "rank": 9,
+        "ticker": "IBM",
+        "name": "IBM Corp.",
+        "weight": 1.297
+      },
+      {
+        "rank": 10,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.277
+      },
+      {
+        "rank": 11,
+        "ticker": "DD (Old)",
+        "name": "DuPont Co (Old)",
+        "weight": 1.149
+      },
+      {
+        "rank": 12,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 1.068
+      },
+      {
+        "rank": 13,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.058
+      },
+      {
+        "rank": 14,
+        "ticker": "MSI",
+        "name": "Motorola Solutions Inc.",
+        "weight": 1.022
+      },
+      {
+        "rank": 15,
+        "ticker": "MOB",
+        "name": "Mobil Corp.",
+        "weight": 1.007
+      },
+      {
+        "rank": 16,
+        "ticker": "GM",
+        "name": "General Motors Co",
+        "weight": 0.955
+      },
+      {
+        "rank": 17,
+        "ticker": "AIG",
+        "name": "AIG Inc.",
+        "weight": 0.931
+      },
+      {
+        "rank": 18,
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Co",
+        "weight": 0.889
+      },
+      {
+        "rank": 19,
+        "ticker": "AN (Amoco)",
+        "name": "Amoco Corp.",
+        "weight": 0.883
+      },
+      {
+        "rank": 20,
+        "ticker": "GTE (GTE)",
+        "name": "GTE Corp.",
+        "weight": 0.878
+      },
+      {
+        "rank": 21,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 0.874
+      },
+      {
+        "rank": 22,
+        "ticker": "PEP",
+        "name": "PepsiCo Inc.",
+        "weight": 0.863
+      },
+      {
+        "rank": 23,
+        "ticker": "BLS",
+        "name": "BellSouth Corp.",
+        "weight": 0.807
+      },
+      {
+        "rank": 24,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.793
+      },
+      {
+        "rank": 25,
+        "ticker": "ABT",
+        "name": "Abbott Laboratories",
+        "weight": 0.791
+      }
+    ],
+    "1995": [
+      {
+        "rank": 1,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 2.638
+      },
+      {
+        "rank": 2,
+        "ticker": "T (Old)",
+        "name": "AT&T Corp. (Old)",
+        "weight": 2.261
+      },
+      {
+        "rank": 3,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 2.21
+      },
+      {
+        "rank": 4,
+        "ticker": "KO",
+        "name": "The Coca Cola Co.",
+        "weight": 2.043
+      },
+      {
+        "rank": 5,
+        "ticker": "MRK",
+        "name": "Merck & Co Inc",
+        "weight": 1.772
+      },
+      {
+        "rank": 6,
+        "ticker": "RD",
+        "name": "Royal Dutch Petroleum",
+        "weight": 1.659
+      },
+      {
+        "rank": 7,
+        "ticker": "MO",
+        "name": "Altria Group Inc.",
+        "weight": 1.652
+      },
+      {
+        "rank": 8,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.25
+      },
+      {
+        "rank": 9,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.215
+      },
+      {
+        "rank": 10,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 1.136
+      },
+      {
+        "rank": 11,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores Inc",
+        "weight": 1.12
+      },
+      {
+        "rank": 12,
+        "ticker": "IBM",
+        "name": "IBM Corp.",
+        "weight": 1.119
+      },
+      {
+        "rank": 13,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 1.022
+      },
+      {
+        "rank": 14,
+        "ticker": "MOB",
+        "name": "Mobil Corp.",
+        "weight": 0.97
+      },
+      {
+        "rank": 15,
+        "ticker": "PEP",
+        "name": "PepsiCo Inc.",
+        "weight": 0.966
+      },
+      {
+        "rank": 16,
+        "ticker": "AIG",
+        "name": "AIG Inc.",
+        "weight": 0.962
+      },
+      {
+        "rank": 17,
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Co",
+        "weight": 0.95
+      },
+      {
+        "rank": 18,
+        "ticker": "BLS",
+        "name": "BellSouth Corp.",
+        "weight": 0.948
+      },
+      {
+        "rank": 19,
+        "ticker": "HPQ",
+        "name": "HP Inc",
+        "weight": 0.94
+      },
+      {
+        "rank": 20,
+        "ticker": "GTE (GTE)",
+        "name": "GTE Corp.",
+        "weight": 0.932
+      },
+      {
+        "rank": 21,
+        "ticker": "PFE",
+        "name": "Pfizer Inc.",
+        "weight": 0.879
+      },
+      {
+        "rank": 22,
+        "ticker": "GM",
+        "name": "General Motors Co",
+        "weight": 0.873
+      },
+      {
+        "rank": 23,
+        "ticker": "DD (Old)",
+        "name": "DuPont Co (Old)",
+        "weight": 0.851
+      },
+      {
+        "rank": 24,
+        "ticker": "AN (Amoco)",
+        "name": "Amoco Corp.",
+        "weight": 0.779
+      },
+      {
+        "rank": 25,
+        "ticker": "T",
+        "name": "AT&T Inc.",
+        "weight": 0.766
+      }
+    ],
+    "1996": [
+      {
+        "rank": 1,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 2.906
+      },
+      {
+        "rank": 2,
+        "ticker": "KO",
+        "name": "The Coca Cola Co.",
+        "weight": 2.337
+      },
+      {
+        "rank": 3,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 2.172
+      },
+      {
+        "rank": 4,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 1.919
+      },
+      {
+        "rank": 5,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 1.767
+      },
+      {
+        "rank": 6,
+        "ticker": "MRK",
+        "name": "Merck & Co Inc",
+        "weight": 1.713
+      },
+      {
+        "rank": 7,
+        "ticker": "MO",
+        "name": "Altria Group Inc.",
+        "weight": 1.643
+      },
+      {
+        "rank": 8,
+        "ticker": "RD",
+        "name": "Royal Dutch Petroleum",
+        "weight": 1.634
+      },
+      {
+        "rank": 9,
+        "ticker": "IBM",
+        "name": "IBM Corp.",
+        "weight": 1.4
+      },
+      {
+        "rank": 10,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.31
+      },
+      {
+        "rank": 11,
+        "ticker": "T (Old)",
+        "name": "AT&T Corp. (Old)",
+        "weight": 1.255
+      },
+      {
+        "rank": 12,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.183
+      },
+      {
+        "rank": 13,
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Co",
+        "weight": 0.974
+      },
+      {
+        "rank": 14,
+        "ticker": "PFE",
+        "name": "Pfizer Inc.",
+        "weight": 0.955
+      },
+      {
+        "rank": 15,
+        "ticker": "DD (Old)",
+        "name": "DuPont Co (Old)",
+        "weight": 0.946
+      },
+      {
+        "rank": 16,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores Inc",
+        "weight": 0.932
+      },
+      {
+        "rank": 17,
+        "ticker": "HPQ",
+        "name": "HP Inc",
+        "weight": 0.912
+      },
+      {
+        "rank": 18,
+        "ticker": "AIG",
+        "name": "AIG Inc.",
+        "weight": 0.907
+      },
+      {
+        "rank": 19,
+        "ticker": "CCI (Citi)",
+        "name": "Citicorp Inc (Old)",
+        "weight": 0.865
+      },
+      {
+        "rank": 20,
+        "ticker": "MOB",
+        "name": "Mobil Corp.",
+        "weight": 0.86
+      },
+      {
+        "rank": 21,
+        "ticker": "DIS",
+        "name": "Walt Disney Co",
+        "weight": 0.841
+      },
+      {
+        "rank": 22,
+        "ticker": "PEP",
+        "name": "PepsiCo Inc.",
+        "weight": 0.811
+      },
+      {
+        "rank": 23,
+        "ticker": "GTE (GTE)",
+        "name": "GTE Corp.",
+        "weight": 0.779
+      },
+      {
+        "rank": 24,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 0.757
+      },
+      {
+        "rank": 25,
+        "ticker": "GM",
+        "name": "General Motors Co",
+        "weight": 0.753
+      }
+    ],
+    "1997": [
+      {
+        "rank": 1,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.196
+      },
+      {
+        "rank": 2,
+        "ticker": "KO",
+        "name": "The Coca Cola Co.",
+        "weight": 2.195
+      },
+      {
+        "rank": 3,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 2.076
+      },
+      {
+        "rank": 4,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 2.008
+      },
+      {
+        "rank": 5,
+        "ticker": "MRK",
+        "name": "Merck & Co Inc",
+        "weight": 1.691
+      },
+      {
+        "rank": 6,
+        "ticker": "RD",
+        "name": "Royal Dutch Petroleum",
+        "weight": 1.547
+      },
+      {
+        "rank": 7,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 1.522
+      },
+      {
+        "rank": 8,
+        "ticker": "MO",
+        "name": "Altria Group Inc.",
+        "weight": 1.459
+      },
+      {
+        "rank": 9,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.428
+      },
+      {
+        "rank": 10,
+        "ticker": "IBM",
+        "name": "IBM Corp.",
+        "weight": 1.354
+      },
+      {
+        "rank": 11,
+        "ticker": "T (Old)",
+        "name": "AT&T Corp. (Old)",
+        "weight": 1.325
+      },
+      {
+        "rank": 12,
+        "ticker": "PFE",
+        "name": "Pfizer Inc.",
+        "weight": 1.283
+      },
+      {
+        "rank": 13,
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Co",
+        "weight": 1.252
+      },
+      {
+        "rank": 14,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores Inc",
+        "weight": 1.179
+      },
+      {
+        "rank": 15,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.178
+      },
+      {
+        "rank": 16,
+        "ticker": "LLY",
+        "name": "Eli Lilly and Co.",
+        "weight": 1.028
+      },
+      {
+        "rank": 17,
+        "ticker": "AIG",
+        "name": "AIG Inc.",
+        "weight": 1.015
+      },
+      {
+        "rank": 18,
+        "ticker": "VZ",
+        "name": "Verizon Communications Inc",
+        "weight": 0.941
+      },
+      {
+        "rank": 19,
+        "ticker": "DD (Old)",
+        "name": "DuPont Co (Old)",
+        "weight": 0.904
+      },
+      {
+        "rank": 20,
+        "ticker": "T",
+        "name": "AT&T Inc.",
+        "weight": 0.894
+      },
+      {
+        "rank": 21,
+        "ticker": "DIS",
+        "name": "Walt Disney Co",
+        "weight": 0.893
+      },
+      {
+        "rank": 22,
+        "ticker": "HPQ",
+        "name": "HP Inc",
+        "weight": 0.864
+      },
+      {
+        "rank": 23,
+        "ticker": "C",
+        "name": "Citigroup Inc.",
+        "weight": 0.82
+      },
+      {
+        "rank": 24,
+        "ticker": "FNMA",
+        "name": "Fannie Mae (FNMA)",
+        "weight": 0.806
+      },
+      {
+        "rank": 25,
+        "ticker": "CCI (Citi)",
+        "name": "Citicorp Inc (Old)",
+        "weight": 0.771
+      }
+    ],
+    "1998": [
+      {
+        "rank": 1,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 3.472
+      },
+      {
+        "rank": 2,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.388
+      },
+      {
+        "rank": 3,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 2.003
+      },
+      {
+        "rank": 4,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores Inc",
+        "weight": 1.835
+      },
+      {
+        "rank": 5,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.802
+      },
+      {
+        "rank": 6,
+        "ticker": "MRK",
+        "name": "Merck & Co Inc",
+        "weight": 1.781
+      },
+      {
+        "rank": 7,
+        "ticker": "IBM",
+        "name": "IBM Corp.",
+        "weight": 1.725
+      },
+      {
+        "rank": 8,
+        "ticker": "KO",
+        "name": "The Coca Cola Co.",
+        "weight": 1.674
+      },
+      {
+        "rank": 9,
+        "ticker": "PFE",
+        "name": "Pfizer Inc.",
+        "weight": 1.644
+      },
+      {
+        "rank": 10,
+        "ticker": "CSCO",
+        "name": "Cisco Systems Inc",
+        "weight": 1.48
+      },
+      {
+        "rank": 11,
+        "ticker": "LU",
+        "name": "Lucent Technology",
+        "weight": 1.469
+      },
+      {
+        "rank": 12,
+        "ticker": "WCOM",
+        "name": "WorldCom Inc",
+        "weight": 1.35
+      },
+      {
+        "rank": 13,
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Co",
+        "weight": 1.348
+      },
+      {
+        "rank": 14,
+        "ticker": "T (Old)",
+        "name": "AT&T Corp. (Old)",
+        "weight": 1.346
+      },
+      {
+        "rank": 15,
+        "ticker": "MO",
+        "name": "Altria Group Inc.",
+        "weight": 1.32
+      },
+      {
+        "rank": 16,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.228
+      },
+      {
+        "rank": 17,
+        "ticker": "C",
+        "name": "Citigroup Inc.",
+        "weight": 1.144
+      },
+      {
+        "rank": 18,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.143
+      },
+      {
+        "rank": 19,
+        "ticker": "T",
+        "name": "AT&T Inc.",
+        "weight": 1.063
+      },
+      {
+        "rank": 20,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 1.055
+      },
+      {
+        "rank": 21,
+        "ticker": "RD",
+        "name": "Royal Dutch Petroleum",
+        "weight": 1.041
+      },
+      {
+        "rank": 22,
+        "ticker": "AIG",
+        "name": "AIG Inc.",
+        "weight": 1.028
+      },
+      {
+        "rank": 23,
+        "ticker": "LLY",
+        "name": "Eli Lilly and Co.",
+        "weight": 0.991
+      },
+      {
+        "rank": 24,
+        "ticker": "BLS",
+        "name": "BellSouth Corp.",
+        "weight": 0.989
+      },
+      {
+        "rank": 25,
+        "ticker": "HD",
+        "name": "Home Depot Inc",
+        "weight": 0.969
+      }
+    ],
+    "1999": [
+      {
+        "rank": 1,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 4.921
+      },
+      {
+        "rank": 2,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 4.143
+      },
+      {
+        "rank": 3,
+        "ticker": "CSCO",
+        "name": "Cisco Systems Inc",
+        "weight": 2.862
+      },
+      {
+        "rank": 4,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores Inc",
+        "weight": 2.515
+      },
+      {
+        "rank": 5,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 2.278
+      },
+      {
+        "rank": 6,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 2.246
+      },
+      {
+        "rank": 7,
+        "ticker": "LU",
+        "name": "Lucent Technology",
+        "weight": 1.921
+      },
+      {
+        "rank": 8,
+        "ticker": "IBM",
+        "name": "IBM Corp.",
+        "weight": 1.588
+      },
+      {
+        "rank": 9,
+        "ticker": "C",
+        "name": "Citigroup Inc.",
+        "weight": 1.534
+      },
+      {
+        "rank": 10,
+        "ticker": "TWX",
+        "name": "Time Warner Inc.",
+        "weight": 1.386
+      },
+      {
+        "rank": 11,
+        "ticker": "AIG",
+        "name": "AIG Inc.",
+        "weight": 1.367
+      },
+      {
+        "rank": 12,
+        "ticker": "T",
+        "name": "AT&T Inc.",
+        "weight": 1.358
+      },
+      {
+        "rank": 13,
+        "ticker": "T (Old)",
+        "name": "AT&T Corp. (Old)",
+        "weight": 1.326
+      },
+      {
+        "rank": 14,
+        "ticker": "ORCL",
+        "name": "Oracle Corp.",
+        "weight": 1.303
+      },
+      {
+        "rank": 15,
+        "ticker": "HD",
+        "name": "Home Depot Inc",
+        "weight": 1.293
+      },
+      {
+        "rank": 16,
+        "ticker": "MRK",
+        "name": "Merck & Co Inc",
+        "weight": 1.283
+      },
+      {
+        "rank": 17,
+        "ticker": "WCOM",
+        "name": "WorldCom Inc",
+        "weight": 1.23
+      },
+      {
+        "rank": 18,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.176
+      },
+      {
+        "rank": 19,
+        "ticker": "KO",
+        "name": "The Coca Cola Co.",
+        "weight": 1.175
+      },
+      {
+        "rank": 20,
+        "ticker": "NT",
+        "name": "Nortel Networks",
+        "weight": 1.127
+      },
+      {
+        "rank": 21,
+        "ticker": "DELL",
+        "name": "Dell Inc",
+        "weight": 1.069
+      },
+      {
+        "rank": 22,
+        "ticker": "RD",
+        "name": "Royal Dutch Petroleum",
+        "weight": 1.061
+      },
+      {
+        "rank": 23,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.059
+      },
+      {
+        "rank": 24,
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Co",
+        "weight": 1.04
+      },
+      {
+        "rank": 25,
+        "ticker": "PFE",
+        "name": "Pfizer Inc.",
+        "weight": 1.026
+      }
+    ],
+    "2000": [
+      {
+        "rank": 1,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 4.525
+      },
+      {
+        "rank": 2,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 3.105
+      },
+      {
+        "rank": 3,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 2.514
+      },
+      {
+        "rank": 4,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 2.459
+      },
+      {
+        "rank": 5,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 2.245
+      },
+      {
+        "rank": 6,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 2.21
+      },
+      {
+        "rank": 7,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 1.926
+      },
+      {
+        "rank": 8,
+        "ticker": "ORCL",
+        "name": "Oracle Corp",
+        "weight": 1.756
+      },
+      {
+        "rank": 9,
+        "ticker": "AIG",
+        "name": "American International Group, Inc",
+        "weight": 1.756
+      },
+      {
+        "rank": 10,
+        "ticker": "DELL",
+        "name": "EMC Corp",
+        "weight": 1.708
+      },
+      {
+        "rank": 11,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 1.702
+      },
+      {
+        "rank": 12,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.569
+      },
+      {
+        "rank": 13,
+        "ticker": "ORCL-SUNM",
+        "name": "Sun Microsystems, Inc",
+        "weight": 1.467
+      },
+      {
+        "rank": 14,
+        "ticker": "NORTELNE",
+        "name": "Nortel Networks Corp",
+        "weight": 1.409
+      },
+      {
+        "rank": 15,
+        "ticker": "MRK",
+        "name": "Merck & Co, Inc",
+        "weight": 1.358
+      },
+      {
+        "rank": 16,
+        "ticker": "T",
+        "name": "SBC Communications, Inc",
+        "weight": 1.342
+      },
+      {
+        "rank": 17,
+        "ticker": "KO",
+        "name": "Coca-Cola Co",
+        "weight": 1.083
+      },
+      {
+        "rank": 18,
+        "ticker": "VZ",
+        "name": "Verizon Communications",
+        "weight": 1.045
+      },
+      {
+        "rank": 19,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.037
+      },
+      {
+        "rank": 20,
+        "ticker": "SHEL",
+        "name": "Royal Dutch Petroleum Co",
+        "weight": 1.02
+      },
+      {
+        "rank": 21,
+        "ticker": "WBD",
+        "name": "America Online, Inc",
+        "weight": 0.98
+      },
+      {
+        "rank": 22,
+        "ticker": "HD",
+        "name": "Home Depot, Inc (The)",
+        "weight": 0.974
+      },
+      {
+        "rank": 23,
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Co",
+        "weight": 0.889
+      },
+      {
+        "rank": 24,
+        "ticker": "T-ATTC",
+        "name": "AT&T Corp",
+        "weight": 0.875
+      },
+      {
+        "rank": 25,
+        "ticker": "WBD-TIME",
+        "name": "Time Warner, Inc",
+        "weight": 0.817
+      }
+    ],
+    "2001": [
+      {
+        "rank": 1,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.917
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 2.918
+      },
+      {
+        "rank": 3,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 2.878
+      },
+      {
+        "rank": 4,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 2.682
+      },
+      {
+        "rank": 5,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 2.344
+      },
+      {
+        "rank": 6,
+        "ticker": "AIG",
+        "name": "American International Group, Inc",
+        "weight": 2.164
+      },
+      {
+        "rank": 7,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 2.157
+      },
+      {
+        "rank": 8,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.775
+      },
+      {
+        "rank": 9,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.698
+      },
+      {
+        "rank": 10,
+        "ticker": "T",
+        "name": "SBC Communications, Inc",
+        "weight": 1.679
+      },
+      {
+        "rank": 11,
+        "ticker": "MRK",
+        "name": "Merck & Co, Inc",
+        "weight": 1.615
+      },
+      {
+        "rank": 12,
+        "ticker": "WBD",
+        "name": "AOL Time Warner, Inc",
+        "weight": 1.553
+      },
+      {
+        "rank": 13,
+        "ticker": "VZ",
+        "name": "Verizon Communications",
+        "weight": 1.552
+      },
+      {
+        "rank": 14,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 1.456
+      },
+      {
+        "rank": 15,
+        "ticker": "KO",
+        "name": "Coca Cola Co",
+        "weight": 1.233
+      },
+      {
+        "rank": 16,
+        "ticker": "BMY",
+        "name": "Bristol-Myers Squibb Co",
+        "weight": 1.146
+      },
+      {
+        "rank": 17,
+        "ticker": "SHEL",
+        "name": "Royal Dutch Petroleum Co",
+        "weight": 1.139
+      },
+      {
+        "rank": 18,
+        "ticker": "PM",
+        "name": "Philip Morris Cos, Inc",
+        "weight": 1.128
+      },
+      {
+        "rank": 19,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.0
+      },
+      {
+        "rank": 20,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 0.994
+      },
+      {
+        "rank": 21,
+        "ticker": "LLY",
+        "name": "Lilly (Eli) & Co",
+        "weight": 0.963
+      },
+      {
+        "rank": 22,
+        "ticker": "HD",
+        "name": "Home Depot, Inc (The)",
+        "weight": 0.95
+      },
+      {
+        "rank": 23,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 0.946
+      },
+      {
+        "rank": 24,
+        "ticker": "JCI",
+        "name": "Tyco Laboratories, Inc",
+        "weight": 0.932
+      },
+      {
+        "rank": 25,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 0.903
+      }
+    ],
+    "2002": [
+      {
+        "rank": 1,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.265
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 3.153
+      },
+      {
+        "rank": 3,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 2.916
+      },
+      {
+        "rank": 4,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 2.873
+      },
+      {
+        "rank": 5,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 2.392
+      },
+      {
+        "rank": 6,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson Company",
+        "weight": 2.143
+      },
+      {
+        "rank": 7,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 1.999
+      },
+      {
+        "rank": 8,
+        "ticker": "AIG",
+        "name": "American International Group, Inc",
+        "weight": 1.898
+      },
+      {
+        "rank": 9,
+        "ticker": "KO",
+        "name": "Coca-Cola Co (The)",
+        "weight": 1.582
+      },
+      {
+        "rank": 10,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.543
+      },
+      {
+        "rank": 11,
+        "ticker": "MRK",
+        "name": "Merck & Co, Inc",
+        "weight": 1.367
+      },
+      {
+        "rank": 12,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.318
+      },
+      {
+        "rank": 13,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 1.278
+      },
+      {
+        "rank": 14,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 1.233
+      },
+      {
+        "rank": 15,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co",
+        "weight": 1.094
+      },
+      {
+        "rank": 16,
+        "ticker": "PM",
+        "name": "Philip Morris Cos, Inc",
+        "weight": 1.093
+      },
+      {
+        "rank": 17,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 1.02
+      },
+      {
+        "rank": 18,
+        "ticker": "VZ",
+        "name": "Verizon Communications Inc",
+        "weight": 0.993
+      },
+      {
+        "rank": 19,
+        "ticker": "CVX",
+        "name": "ChevronTexaco Corp",
+        "weight": 0.982
+      },
+      {
+        "rank": 20,
+        "ticker": "PSKY",
+        "name": "Viacom, Inc",
+        "weight": 0.952
+      },
+      {
+        "rank": 21,
+        "ticker": "UPS",
+        "name": "United Parcel Service Inc Class B",
+        "weight": 0.928
+      },
+      {
+        "rank": 22,
+        "ticker": "T",
+        "name": "SBC Communications Inc",
+        "weight": 0.892
+      },
+      {
+        "rank": 23,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 0.868
+      },
+      {
+        "rank": 24,
+        "ticker": "ABT",
+        "name": "Abbott Lab",
+        "weight": 0.838
+      },
+      {
+        "rank": 25,
+        "ticker": "LLY",
+        "name": "Lilly (Eli) & Co",
+        "weight": 0.826
+      }
+    ],
+    "2003": [
+      {
+        "rank": 1,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 3.267
+      },
+      {
+        "rank": 2,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.245
+      },
+      {
+        "rank": 3,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 2.652
+      },
+      {
+        "rank": 4,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 2.64
+      },
+      {
+        "rank": 5,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 2.571
+      },
+      {
+        "rank": 6,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 2.547
+      },
+      {
+        "rank": 7,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 1.947
+      },
+      {
+        "rank": 8,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.662
+      },
+      {
+        "rank": 9,
+        "ticker": "AIG",
+        "name": "American International Group, Inc",
+        "weight": 1.64
+      },
+      {
+        "rank": 10,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson Company",
+        "weight": 1.601
+      },
+      {
+        "rank": 11,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 1.494
+      },
+      {
+        "rank": 12,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.307
+      },
+      {
+        "rank": 13,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 1.267
+      },
+      {
+        "rank": 14,
+        "ticker": "MRK",
+        "name": "Merck & Co, Inc",
+        "weight": 1.231
+      },
+      {
+        "rank": 15,
+        "ticker": "KO",
+        "name": "Coca-Cola Co (The)",
+        "weight": 1.147
+      },
+      {
+        "rank": 16,
+        "ticker": "VZ",
+        "name": "Verizon Communications Inc",
+        "weight": 0.972
+      },
+      {
+        "rank": 17,
+        "ticker": "MO",
+        "name": "Altria Group, Inc",
+        "weight": 0.967
+      },
+      {
+        "rank": 18,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co",
+        "weight": 0.94
+      },
+      {
+        "rank": 19,
+        "ticker": "DELL",
+        "name": "Dell Inc",
+        "weight": 0.934
+      },
+      {
+        "rank": 20,
+        "ticker": "AMGN",
+        "name": "Amgen Inc",
+        "weight": 0.906
+      },
+      {
+        "rank": 21,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 0.857
+      },
+      {
+        "rank": 22,
+        "ticker": "CVX",
+        "name": "ChevronTexaco Corp",
+        "weight": 0.83
+      },
+      {
+        "rank": 23,
+        "ticker": "T",
+        "name": "SBC Communications Inc",
+        "weight": 0.805
+      },
+      {
+        "rank": 24,
+        "ticker": "HD",
+        "name": "Home Depot, Inc",
+        "weight": 0.797
+      },
+      {
+        "rank": 25,
+        "ticker": "UPS",
+        "name": "United Parcel Service Inc (Class B)",
+        "weight": 0.782
+      }
+    ],
+    "2004": [
+      {
+        "rank": 1,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.41
+      },
+      {
+        "rank": 2,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 3.023
+      },
+      {
+        "rank": 3,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 2.892
+      },
+      {
+        "rank": 4,
+        "ticker": "PFE",
+        "name": "Pfizer Inc",
+        "weight": 2.221
+      },
+      {
+        "rank": 5,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 2.198
+      },
+      {
+        "rank": 6,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 2.17
+      },
+      {
+        "rank": 7,
+        "ticker": "AIG",
+        "name": "American International Group, Inc",
+        "weight": 1.703
+      },
+      {
+        "rank": 8,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 1.695
+      },
+      {
+        "rank": 9,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson Co",
+        "weight": 1.607
+      },
+      {
+        "rank": 10,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.381
+      },
+      {
+        "rank": 11,
+        "ticker": "JPM",
+        "name": "JP Morgan Chase & Co",
+        "weight": 1.361
+      },
+      {
+        "rank": 12,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.323
+      },
+      {
+        "rank": 13,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 1.237
+      },
+      {
+        "rank": 14,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 1.176
+      },
+      {
+        "rank": 15,
+        "ticker": "CVX",
+        "name": "ChevronTexaco Corp",
+        "weight": 1.099
+      },
+      {
+        "rank": 16,
+        "ticker": "VZ",
+        "name": "Verizon Communications Inc",
+        "weight": 1.048
+      },
+      {
+        "rank": 17,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co",
+        "weight": 0.967
+      },
+      {
+        "rank": 18,
+        "ticker": "KO",
+        "name": "Coca-Cola Co (The)",
+        "weight": 0.934
+      },
+      {
+        "rank": 19,
+        "ticker": "MO",
+        "name": "Altria Group, Inc",
+        "weight": 0.926
+      },
+      {
+        "rank": 20,
+        "ticker": "DELL",
+        "name": "Dell Inc",
+        "weight": 0.855
+      },
+      {
+        "rank": 21,
+        "ticker": "HD",
+        "name": "Home Depot, Inc",
+        "weight": 0.827
+      },
+      {
+        "rank": 22,
+        "ticker": "T",
+        "name": "SBC Communications Inc",
+        "weight": 0.826
+      },
+      {
+        "rank": 23,
+        "ticker": "UPS",
+        "name": "United Parcel Service Inc (Class B)",
+        "weight": 0.823
+      },
+      {
+        "rank": 24,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 0.793
+      },
+      {
+        "rank": 25,
+        "ticker": "WBD",
+        "name": "Time Warner, Inc",
+        "weight": 0.707
+      }
+    ],
+    "2005": [
+      {
+        "rank": 1,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 3.614
+      },
+      {
+        "rank": 2,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.22
+      },
+      {
+        "rank": 3,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 2.139
+      },
+      {
+        "rank": 4,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 2.123
+      },
+      {
+        "rank": 5,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson Co",
+        "weight": 1.698
+      },
+      {
+        "rank": 6,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 1.663
+      },
+      {
+        "rank": 7,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 1.526
+      },
+      {
+        "rank": 8,
+        "ticker": "AIG",
+        "name": "American International Group, Inc",
+        "weight": 1.451
+      },
+      {
+        "rank": 9,
+        "ticker": "MO",
+        "name": "Altria Group, Inc",
+        "weight": 1.38
+      },
+      {
+        "rank": 10,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.376
+      },
+      {
+        "rank": 11,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 1.356
+      },
+      {
+        "rank": 12,
+        "ticker": "CVX",
+        "name": "ChevronTexaco Corp",
+        "weight": 1.317
+      },
+      {
+        "rank": 13,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.156
+      },
+      {
+        "rank": 14,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co",
+        "weight": 1.078
+      },
+      {
+        "rank": 15,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 1.036
+      },
+      {
+        "rank": 16,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 0.987
+      },
+      {
+        "rank": 17,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co",
+        "weight": 0.894
+      },
+      {
+        "rank": 18,
+        "ticker": "AMGN",
+        "name": "Amgen, Inc",
+        "weight": 0.889
+      },
+      {
+        "rank": 19,
+        "ticker": "COP",
+        "name": "ConocoPhillips, Inc",
+        "weight": 0.88
+      },
+      {
+        "rank": 20,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 0.856
+      },
+      {
+        "rank": 21,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc",
+        "weight": 0.818
+      },
+      {
+        "rank": 22,
+        "ticker": "KO",
+        "name": "Coca-Cola Co (The)",
+        "weight": 0.809
+      },
+      {
+        "rank": 23,
+        "ticker": "WBD",
+        "name": "Time Warner, Inc",
+        "weight": 0.769
+      },
+      {
+        "rank": 24,
+        "ticker": "HPQ",
+        "name": "Hewlett-Packard Co",
+        "weight": 0.756
+      },
+      {
+        "rank": 25,
+        "ticker": "DELL",
+        "name": "Dell, Inc",
+        "weight": 0.741
+      }
+    ],
+    "2006": [
+      {
+        "rank": 1,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 3.316
+      },
+      {
+        "rank": 2,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.036
+      },
+      {
+        "rank": 3,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 2.042
+      },
+      {
+        "rank": 4,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 2.022
+      },
+      {
+        "rank": 5,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 1.962
+      },
+      {
+        "rank": 6,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 1.719
+      },
+      {
+        "rank": 7,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.635
+      },
+      {
+        "rank": 8,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.579
+      },
+      {
+        "rank": 9,
+        "ticker": "AIG",
+        "name": "American International Group, Inc",
+        "weight": 1.432
+      },
+      {
+        "rank": 10,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co",
+        "weight": 1.356
+      },
+      {
+        "rank": 11,
+        "ticker": "MO",
+        "name": "Altria Group, Inc",
+        "weight": 1.333
+      },
+      {
+        "rank": 12,
+        "ticker": "CVX",
+        "name": "Chevron Corp",
+        "weight": 1.189
+      },
+      {
+        "rank": 13,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 1.168
+      },
+      {
+        "rank": 14,
+        "ticker": "T",
+        "name": "AT&T, Inc",
+        "weight": 1.052
+      },
+      {
+        "rank": 15,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.036
+      },
+      {
+        "rank": 16,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co",
+        "weight": 1.013
+      },
+      {
+        "rank": 17,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 1.008
+      },
+      {
+        "rank": 18,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 0.99
+      },
+      {
+        "rank": 19,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc",
+        "weight": 0.896
+      },
+      {
+        "rank": 20,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 0.892
+      },
+      {
+        "rank": 21,
+        "ticker": "HPQ",
+        "name": "Hewlett-Packard Co",
+        "weight": 0.835
+      },
+      {
+        "rank": 22,
+        "ticker": "COP",
+        "name": "ConocoPhillips",
+        "weight": 0.813
+      },
+      {
+        "rank": 23,
+        "ticker": "KO",
+        "name": "Coca-Cola Co (The)",
+        "weight": 0.758
+      },
+      {
+        "rank": 24,
+        "ticker": "MRK",
+        "name": "Merck & Co, Inc",
+        "weight": 0.756
+      },
+      {
+        "rank": 25,
+        "ticker": "WFC-WACH",
+        "name": "Wachovia Corp",
+        "weight": 0.742
+      }
+    ],
+    "2007": [
+      {
+        "rank": 1,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 3.812
+      },
+      {
+        "rank": 2,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 3.146
+      },
+      {
+        "rank": 3,
+        "ticker": "T",
+        "name": "AT&T, Inc",
+        "weight": 1.916
+      },
+      {
+        "rank": 4,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 1.765
+      },
+      {
+        "rank": 5,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 1.723
+      },
+      {
+        "rank": 6,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 1.65
+      },
+      {
+        "rank": 7,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.635
+      },
+      {
+        "rank": 8,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 1.496
+      },
+      {
+        "rank": 9,
+        "ticker": "CVX",
+        "name": "Chevron Corp",
+        "weight": 1.487
+      },
+      {
+        "rank": 10,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.412
+      },
+      {
+        "rank": 11,
+        "ticker": "AIG",
+        "name": "American International Group, Inc",
+        "weight": 1.298
+      },
+      {
+        "rank": 12,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 1.256
+      },
+      {
+        "rank": 13,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.188
+      },
+      {
+        "rank": 14,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co",
+        "weight": 1.157
+      },
+      {
+        "rank": 15,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 1.121
+      },
+      {
+        "rank": 16,
+        "ticker": "MO",
+        "name": "Altria Group, Inc",
+        "weight": 1.086
+      },
+      {
+        "rank": 17,
+        "ticker": "COP",
+        "name": "ConocoPhillips",
+        "weight": 1.06
+      },
+      {
+        "rank": 18,
+        "ticker": "AAPL",
+        "name": "Apple, Inc",
+        "weight": 0.991
+      },
+      {
+        "rank": 19,
+        "ticker": "GOOGL",
+        "name": "Google, Inc (Class A)",
+        "weight": 0.971
+      },
+      {
+        "rank": 20,
+        "ticker": "HPQ",
+        "name": "Hewlett-Packard Co",
+        "weight": 0.953
+      },
+      {
+        "rank": 21,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc",
+        "weight": 0.949
+      },
+      {
+        "rank": 22,
+        "ticker": "SLB",
+        "name": "Schlumberger, Ltd",
+        "weight": 0.929
+      },
+      {
+        "rank": 23,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co",
+        "weight": 0.882
+      },
+      {
+        "rank": 24,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 0.882
+      },
+      {
+        "rank": 25,
+        "ticker": "KO",
+        "name": "Coca-Cola Co",
+        "weight": 0.853
+      }
+    ],
+    "2008": [
+      {
+        "rank": 1,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 3.962
+      },
+      {
+        "rank": 2,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 2.492
+      },
+      {
+        "rank": 3,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 2.077
+      },
+      {
+        "rank": 4,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 2.059
+      },
+      {
+        "rank": 5,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.902
+      },
+      {
+        "rank": 6,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co",
+        "weight": 1.69
+      },
+      {
+        "rank": 7,
+        "ticker": "CVX",
+        "name": "Chevron Corp",
+        "weight": 1.665
+      },
+      {
+        "rank": 8,
+        "ticker": "T",
+        "name": "AT&T, Inc",
+        "weight": 1.617
+      },
+      {
+        "rank": 9,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 1.569
+      },
+      {
+        "rank": 10,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.557
+      },
+      {
+        "rank": 11,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 1.319
+      },
+      {
+        "rank": 12,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 1.31
+      },
+      {
+        "rank": 13,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 1.222
+      },
+      {
+        "rank": 14,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co",
+        "weight": 1.22
+      },
+      {
+        "rank": 15,
+        "ticker": "HPQ",
+        "name": "Hewlett-Packard Co",
+        "weight": 1.112
+      },
+      {
+        "rank": 16,
+        "ticker": "C",
+        "name": "Citigroup, Inc",
+        "weight": 1.098
+      },
+      {
+        "rank": 17,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 1.097
+      },
+      {
+        "rank": 18,
+        "ticker": "COP",
+        "name": "ConocoPhillips",
+        "weight": 1.094
+      },
+      {
+        "rank": 19,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 1.035
+      },
+      {
+        "rank": 20,
+        "ticker": "KO",
+        "name": "Coca-Cola Co",
+        "weight": 1.033
+      },
+      {
+        "rank": 21,
+        "ticker": "AAPL",
+        "name": "Apple, Inc",
+        "weight": 0.99
+      },
+      {
+        "rank": 22,
+        "ticker": "PM",
+        "name": "Philip Morris International, Inc",
+        "weight": 0.974
+      },
+      {
+        "rank": 23,
+        "ticker": "GOOGL",
+        "name": "Google, Inc, (Class A)",
+        "weight": 0.94
+      },
+      {
+        "rank": 24,
+        "ticker": "SLB",
+        "name": "Schlumberger, Ltd",
+        "weight": 0.92
+      },
+      {
+        "rank": 25,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc",
+        "weight": 0.898
+      }
+    ],
+    "2009": [
+      {
+        "rank": 1,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp",
+        "weight": 3.532
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 2.15
+      },
+      {
+        "rank": 3,
+        "ticker": "GE",
+        "name": "General Electric Co",
+        "weight": 1.869
+      },
+      {
+        "rank": 4,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co",
+        "weight": 1.846
+      },
+      {
+        "rank": 5,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co",
+        "weight": 1.811
+      },
+      {
+        "rank": 6,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.797
+      },
+      {
+        "rank": 7,
+        "ticker": "AAPL",
+        "name": "Apple, Inc",
+        "weight": 1.779
+      },
+      {
+        "rank": 8,
+        "ticker": "T",
+        "name": "AT&T, Inc",
+        "weight": 1.707
+      },
+      {
+        "rank": 9,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp",
+        "weight": 1.679
+      },
+      {
+        "rank": 10,
+        "ticker": "BAC",
+        "name": "Bank of America Corp",
+        "weight": 1.568
+      },
+      {
+        "rank": 11,
+        "ticker": "CVX",
+        "name": "Chevron Corp",
+        "weight": 1.513
+      },
+      {
+        "rank": 12,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc",
+        "weight": 1.454
+      },
+      {
+        "rank": 13,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co",
+        "weight": 1.41
+      },
+      {
+        "rank": 14,
+        "ticker": "KO",
+        "name": "Coca-Cola Co",
+        "weight": 1.333
+      },
+      {
+        "rank": 15,
+        "ticker": "GOOGL",
+        "name": "Google, Inc (Class A)",
+        "weight": 1.278
+      },
+      {
+        "rank": 16,
+        "ticker": "HPQ",
+        "name": "Hewlett-Packard Co",
+        "weight": 1.199
+      },
+      {
+        "rank": 17,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc",
+        "weight": 1.196
+      },
+      {
+        "rank": 18,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 1.173
+      },
+      {
+        "rank": 19,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc",
+        "weight": 1.136
+      },
+      {
+        "rank": 20,
+        "ticker": "PM",
+        "name": "Philip Morris International, Inc",
+        "weight": 1.01
+      },
+      {
+        "rank": 21,
+        "ticker": "GS",
+        "name": "Goldman Sachs Group, Inc",
+        "weight": 1.009
+      },
+      {
+        "rank": 22,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc",
+        "weight": 0.979
+      },
+      {
+        "rank": 23,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc",
+        "weight": 0.921
+      },
+      {
+        "rank": 24,
+        "ticker": "ORCL",
+        "name": "Oracle Corp",
+        "weight": 0.872
+      },
+      {
+        "rank": 25,
+        "ticker": "ABT",
+        "name": "Abbott Laboratories",
+        "weight": 0.819
+      }
+    ],
+    "2010": [
+      {
+        "rank": 1,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 3.044
+      },
+      {
+        "rank": 2,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 2.509
+      },
+      {
+        "rank": 3,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 1.806
+      },
+      {
+        "rank": 4,
+        "ticker": "GE",
+        "name": "General Electric Co.",
+        "weight": 1.681
+      },
+      {
+        "rank": 5,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.653
+      },
+      {
+        "rank": 6,
+        "ticker": "PG",
+        "name": "The Procter & Gamble Co.",
+        "weight": 1.646
+      },
+      {
+        "rank": 7,
+        "ticker": "IBM",
+        "name": "International BusinessMachines Corp.",
+        "weight": 1.636
+      },
+      {
+        "rank": 8,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.635
+      },
+      {
+        "rank": 9,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 1.575
+      },
+      {
+        "rank": 10,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.46
+      },
+      {
+        "rank": 11,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. (Class B)",
+        "weight": 1.386
+      },
+      {
+        "rank": 12,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 1.335
+      },
+      {
+        "rank": 13,
+        "ticker": "KO",
+        "name": "TheCoca-ColaCo.",
+        "weight": 1.306
+      },
+      {
+        "rank": 14,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 1.273
+      },
+      {
+        "rank": 15,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 1.272
+      },
+      {
+        "rank": 16,
+        "ticker": "GOOGL",
+        "name": "Google, Inc. (Class A)",
+        "weight": 1.266
+      },
+      {
+        "rank": 17,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc.",
+        "weight": 1.21
+      },
+      {
+        "rank": 18,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 1.096
+      },
+      {
+        "rank": 19,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 1.035
+      },
+      {
+        "rank": 20,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc.",
+        "weight": 1.034
+      },
+      {
+        "rank": 21,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc.",
+        "weight": 1.022
+      },
+      {
+        "rank": 22,
+        "ticker": "ORCL",
+        "name": "Oracle Corp.",
+        "weight": 1.005
+      },
+      {
+        "rank": 23,
+        "ticker": "PM",
+        "name": "Philip Morris International, Inc.",
+        "weight": 0.993
+      },
+      {
+        "rank": 24,
+        "ticker": "HPQ",
+        "name": "Hewlett-Packard Co.",
+        "weight": 0.922
+      },
+      {
+        "rank": 25,
+        "ticker": "C",
+        "name": "Citigroup, Inc.",
+        "weight": 0.898
+      }
+    ],
+    "2011": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 3.431
+      },
+      {
+        "rank": 2,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 3.429
+      },
+      {
+        "rank": 3,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp.",
+        "weight": 2.03
+      },
+      {
+        "rank": 4,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 1.802
+      },
+      {
+        "rank": 5,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 1.801
+      },
+      {
+        "rank": 6,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.697
+      },
+      {
+        "rank": 7,
+        "ticker": "PG",
+        "name": "The Procter & Gamble Co.",
+        "weight": 1.685
+      },
+      {
+        "rank": 8,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.641
+      },
+      {
+        "rank": 9,
+        "ticker": "GE",
+        "name": "General Electric Co.",
+        "weight": 1.57
+      },
+      {
+        "rank": 10,
+        "ticker": "KO",
+        "name": "TheCoca-ColaCo.",
+        "weight": 1.506
+      },
+      {
+        "rank": 11,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 1.339
+      },
+      {
+        "rank": 12,
+        "ticker": "GOOGL",
+        "name": "Google, Inc. (Class A)",
+        "weight": 1.259
+      },
+      {
+        "rank": 13,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 1.237
+      },
+      {
+        "rank": 14,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. (Class B)",
+        "weight": 1.213
+      },
+      {
+        "rank": 15,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.14
+      },
+      {
+        "rank": 16,
+        "ticker": "ORCL",
+        "name": "Oracle Corp.",
+        "weight": 1.103
+      },
+      {
+        "rank": 17,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 1.088
+      },
+      {
+        "rank": 18,
+        "ticker": "PM",
+        "name": "Philip Morris International, Inc.",
+        "weight": 1.064
+      },
+      {
+        "rank": 19,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 1.012
+      },
+      {
+        "rank": 20,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.977
+      },
+      {
+        "rank": 21,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc.",
+        "weight": 0.952
+      },
+      {
+        "rank": 22,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc.",
+        "weight": 0.886
+      },
+      {
+        "rank": 23,
+        "ticker": "MCD",
+        "name": "McDonald\u2019s Corp.",
+        "weight": 0.88
+      },
+      {
+        "rank": 24,
+        "ticker": "COP",
+        "name": "ConocoPhillips",
+        "weight": 0.843
+      },
+      {
+        "rank": 25,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc.",
+        "weight": 0.828
+      }
+    ],
+    "2012": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 4.856
+      },
+      {
+        "rank": 2,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 3.277
+      },
+      {
+        "rank": 3,
+        "ticker": "GE",
+        "name": "General Electric Co.",
+        "weight": 1.862
+      },
+      {
+        "rank": 4,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 1.776
+      },
+      {
+        "rank": 5,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 1.744
+      },
+      {
+        "rank": 6,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp.",
+        "weight": 1.732
+      },
+      {
+        "rank": 7,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.689
+      },
+      {
+        "rank": 8,
+        "ticker": "GOOGL",
+        "name": "Google, Inc. (Class A)",
+        "weight": 1.55
+      },
+      {
+        "rank": 9,
+        "ticker": "PG",
+        "name": "The Procter & Gamble Co.",
+        "weight": 1.483
+      },
+      {
+        "rank": 10,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.475
+      },
+      {
+        "rank": 11,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 1.441
+      },
+      {
+        "rank": 12,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 1.319
+      },
+      {
+        "rank": 13,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. (Class B)",
+        "weight": 1.255
+      },
+      {
+        "rank": 14,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.194
+      },
+      {
+        "rank": 15,
+        "ticker": "PM",
+        "name": "Philip Morris International, Inc.",
+        "weight": 1.177
+      },
+      {
+        "rank": 16,
+        "ticker": "KO",
+        "name": "The Coca-Cola Co.",
+        "weight": 1.14
+      },
+      {
+        "rank": 17,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 1.066
+      },
+      {
+        "rank": 18,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 1.008
+      },
+      {
+        "rank": 19,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc.",
+        "weight": 0.963
+      },
+      {
+        "rank": 20,
+        "ticker": "ORCL",
+        "name": "Oracle Corp.",
+        "weight": 0.931
+      },
+      {
+        "rank": 21,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.881
+      },
+      {
+        "rank": 22,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc.",
+        "weight": 0.855
+      },
+      {
+        "rank": 23,
+        "ticker": "ABT",
+        "name": "Abbott Laboratories",
+        "weight": 0.835
+      },
+      {
+        "rank": 24,
+        "ticker": "QCOM",
+        "name": "QUALCOMM, Inc.",
+        "weight": 0.826
+      },
+      {
+        "rank": 25,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc.",
+        "weight": 0.784
+      }
+    ],
+    "2013": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 2.897
+      },
+      {
+        "rank": 2,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 2.532
+      },
+      {
+        "rank": 3,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 1.688
+      },
+      {
+        "rank": 4,
+        "ticker": "GOOGL",
+        "name": "Google, Inc. (Class A)",
+        "weight": 1.638
+      },
+      {
+        "rank": 5,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.633
+      },
+      {
+        "rank": 6,
+        "ticker": "GE",
+        "name": "General Electric Co.",
+        "weight": 1.627
+      },
+      {
+        "rank": 7,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 1.57
+      },
+      {
+        "rank": 8,
+        "ticker": "PG",
+        "name": "The Procter & Gamble Co.",
+        "weight": 1.384
+      },
+      {
+        "rank": 9,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc.(Class B)",
+        "weight": 1.366
+      },
+      {
+        "rank": 10,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 1.335
+      },
+      {
+        "rank": 11,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.301
+      },
+      {
+        "rank": 12,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp.",
+        "weight": 1.275
+      },
+      {
+        "rank": 13,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 1.271
+      },
+      {
+        "rank": 14,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.201
+      },
+      {
+        "rank": 15,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 0.991
+      },
+      {
+        "rank": 16,
+        "ticker": "C",
+        "name": "Citigroup, Inc.",
+        "weight": 0.985
+      },
+      {
+        "rank": 17,
+        "ticker": "KO",
+        "name": "The Coca-Cola Co.",
+        "weight": 0.966
+      },
+      {
+        "rank": 18,
+        "ticker": "PM",
+        "name": "Philip Morris International, Inc.",
+        "weight": 0.937
+      },
+      {
+        "rank": 19,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.932
+      },
+      {
+        "rank": 20,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 0.893
+      },
+      {
+        "rank": 21,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc.",
+        "weight": 0.84
+      },
+      {
+        "rank": 22,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc.",
+        "weight": 0.82
+      },
+      {
+        "rank": 23,
+        "ticker": "WMT",
+        "name": "Wal-Mart Stores, Inc.",
+        "weight": 0.805
+      },
+      {
+        "rank": 24,
+        "ticker": "ORCL",
+        "name": "Oracle Corp.",
+        "weight": 0.791
+      },
+      {
+        "rank": 25,
+        "ticker": "CMCSA",
+        "name": "Comcast Corp. (Class A)",
+        "weight": 0.79
+      }
+    ],
+    "2014": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 3.445
+      },
+      {
+        "rank": 2,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 2.29
+      },
+      {
+        "rank": 3,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 2.179
+      },
+      {
+        "rank": 4,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.716
+      },
+      {
+        "rank": 5,
+        "ticker": "GE",
+        "name": "General Electric Co.",
+        "weight": 1.467
+      },
+      {
+        "rank": 6,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. (Class B)",
+        "weight": 1.438
+      },
+      {
+        "rank": 7,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 1.407
+      },
+      {
+        "rank": 8,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.294
+      },
+      {
+        "rank": 9,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 1.294
+      },
+      {
+        "rank": 10,
+        "ticker": "PG",
+        "name": "The Procter & Gamble Co.",
+        "weight": 1.294
+      },
+      {
+        "rank": 11,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 1.183
+      },
+      {
+        "rank": 12,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 1.071
+      },
+      {
+        "rank": 13,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.044
+      },
+      {
+        "rank": 14,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 1.025
+      },
+      {
+        "rank": 15,
+        "ticker": "IBM",
+        "name": "International Business Machines Corp.",
+        "weight": 1.006
+      },
+      {
+        "rank": 16,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.984
+      },
+      {
+        "rank": 17,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.976
+      },
+      {
+        "rank": 18,
+        "ticker": "KO",
+        "name": "The Coca-Cola Co.",
+        "weight": 0.961
+      },
+      {
+        "rank": 19,
+        "ticker": "GOOGL",
+        "name": "Google, Inc. (Class A)",
+        "weight": 0.954
+      },
+      {
+        "rank": 20,
+        "ticker": "GOOGL-GOOG",
+        "name": "Google, Inc. (Class C)",
+        "weight": 0.936
+      },
+      {
+        "rank": 21,
+        "ticker": "GILD",
+        "name": "Gilead Sciences, Inc.",
+        "weight": 0.919
+      },
+      {
+        "rank": 22,
+        "ticker": "C",
+        "name": "Citigroup, Inc.",
+        "weight": 0.897
+      },
+      {
+        "rank": 23,
+        "ticker": "META",
+        "name": "Facebook, Inc. (Class A)",
+        "weight": 0.879
+      },
+      {
+        "rank": 24,
+        "ticker": "DIS",
+        "name": "The Walt Disney Co.",
+        "weight": 0.803
+      },
+      {
+        "rank": 25,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc.",
+        "weight": 0.801
+      }
+    ],
+    "2015": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 3.717
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 2.092
+      },
+      {
+        "rank": 3,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.833
+      },
+      {
+        "rank": 4,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.527
+      },
+      {
+        "rank": 5,
+        "ticker": "GE",
+        "name": "General Electric Co.",
+        "weight": 1.505
+      },
+      {
+        "rank": 6,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. (Class B)",
+        "weight": 1.445
+      },
+      {
+        "rank": 7,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 1.419
+      },
+      {
+        "rank": 8,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.334
+      },
+      {
+        "rank": 9,
+        "ticker": "META",
+        "name": "Facebook, Inc. (Class A)",
+        "weight": 1.203
+      },
+      {
+        "rank": 10,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.185
+      },
+      {
+        "rank": 11,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 1.161
+      },
+      {
+        "rank": 12,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 1.154
+      },
+      {
+        "rank": 13,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 1.145
+      },
+      {
+        "rank": 14,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. (Class A)",
+        "weight": 1.094
+      },
+      {
+        "rank": 15,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. (Class C)",
+        "weight": 1.065
+      },
+      {
+        "rank": 16,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 1.046
+      },
+      {
+        "rank": 17,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 0.964
+      },
+      {
+        "rank": 18,
+        "ticker": "DIS",
+        "name": "Walt Disney Co.",
+        "weight": 0.938
+      },
+      {
+        "rank": 19,
+        "ticker": "KO",
+        "name": "Coca-Cola Co.",
+        "weight": 0.927
+      },
+      {
+        "rank": 20,
+        "ticker": "C",
+        "name": "Citigroup, Inc.",
+        "weight": 0.882
+      },
+      {
+        "rank": 21,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 0.877
+      },
+      {
+        "rank": 22,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.876
+      },
+      {
+        "rank": 23,
+        "ticker": "GILD",
+        "name": "Gilead Sciences, Inc.",
+        "weight": 0.851
+      },
+      {
+        "rank": 24,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.847
+      },
+      {
+        "rank": 25,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.822
+      }
+    ],
+    "2016": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 3.252
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 2.397
+      },
+      {
+        "rank": 3,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.924
+      },
+      {
+        "rank": 4,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 1.761
+      },
+      {
+        "rank": 5,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.728
+      },
+      {
+        "rank": 6,
+        "ticker": "META",
+        "name": "Facebook, Inc. Class A",
+        "weight": 1.592
+      },
+      {
+        "rank": 7,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc.Class B",
+        "weight": 1.466
+      },
+      {
+        "rank": 8,
+        "ticker": "GE",
+        "name": "General Electric Co.",
+        "weight": 1.417
+      },
+      {
+        "rank": 9,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.329
+      },
+      {
+        "rank": 10,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.285
+      },
+      {
+        "rank": 11,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 1.28
+      },
+      {
+        "rank": 12,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 1.267
+      },
+      {
+        "rank": 13,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.221
+      },
+      {
+        "rank": 14,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 1.127
+      },
+      {
+        "rank": 15,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 1.092
+      },
+      {
+        "rank": 16,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 1.074
+      },
+      {
+        "rank": 17,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 1.031
+      },
+      {
+        "rank": 18,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.948
+      },
+      {
+        "rank": 19,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.919
+      },
+      {
+        "rank": 20,
+        "ticker": "KO",
+        "name": "Coca-Cola Co.",
+        "weight": 0.876
+      },
+      {
+        "rank": 21,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 0.856
+      },
+      {
+        "rank": 22,
+        "ticker": "CMCSA",
+        "name": "Comcast Corp. Class A",
+        "weight": 0.853
+      },
+      {
+        "rank": 23,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.851
+      },
+      {
+        "rank": 24,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc.",
+        "weight": 0.848
+      },
+      {
+        "rank": 25,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 0.837
+      }
+    ],
+    "2017": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 3.688
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 2.658
+      },
+      {
+        "rank": 3,
+        "ticker": "META",
+        "name": "Facebook, Inc. Class A",
+        "weight": 1.877
+      },
+      {
+        "rank": 4,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 1.776
+      },
+      {
+        "rank": 5,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.635
+      },
+      {
+        "rank": 6,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.617
+      },
+      {
+        "rank": 7,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.61
+      },
+      {
+        "rank": 8,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.557
+      },
+      {
+        "rank": 9,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 1.343
+      },
+      {
+        "rank": 10,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.342
+      },
+      {
+        "rank": 11,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 1.152
+      },
+      {
+        "rank": 12,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 1.141
+      },
+      {
+        "rank": 13,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.116
+      },
+      {
+        "rank": 14,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 1.075
+      },
+      {
+        "rank": 15,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 1.032
+      },
+      {
+        "rank": 16,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 0.987
+      },
+      {
+        "rank": 17,
+        "ticker": "GE",
+        "name": "General Electric Co.",
+        "weight": 0.97
+      },
+      {
+        "rank": 18,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 0.936
+      },
+      {
+        "rank": 19,
+        "ticker": "C",
+        "name": "Citigroup, Inc.",
+        "weight": 0.918
+      },
+      {
+        "rank": 20,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.893
+      },
+      {
+        "rank": 21,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 0.892
+      },
+      {
+        "rank": 22,
+        "ticker": "UNH",
+        "name": "UnitedHealth Group, Inc.",
+        "weight": 0.877
+      },
+      {
+        "rank": 23,
+        "ticker": "CMCSA",
+        "name": "Comcast Corp. Class A",
+        "weight": 0.839
+      },
+      {
+        "rank": 24,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.831
+      },
+      {
+        "rank": 25,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.811
+      }
+    ],
+    "2018": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 4.211
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 3.567
+      },
+      {
+        "rank": 3,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 3.339
+      },
+      {
+        "rank": 4,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.698
+      },
+      {
+        "rank": 5,
+        "ticker": "META",
+        "name": "Facebook, Inc. Class A",
+        "weight": 1.613
+      },
+      {
+        "rank": 6,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.542
+      },
+      {
+        "rank": 7,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.508
+      },
+      {
+        "rank": 8,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.495
+      },
+      {
+        "rank": 9,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 1.468
+      },
+      {
+        "rank": 10,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.464
+      },
+      {
+        "rank": 11,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 1.113
+      },
+      {
+        "rank": 12,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 1.085
+      },
+      {
+        "rank": 13,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 1.051
+      },
+      {
+        "rank": 14,
+        "ticker": "UNH",
+        "name": "UnitedHealth Group, Inc.",
+        "weight": 1.042
+      },
+      {
+        "rank": 15,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 0.992
+      },
+      {
+        "rank": 16,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.964
+      },
+      {
+        "rank": 17,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 0.953
+      },
+      {
+        "rank": 18,
+        "ticker": "WFC",
+        "name": "Wells Fargo & Co.",
+        "weight": 0.927
+      },
+      {
+        "rank": 19,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc.",
+        "weight": 0.904
+      },
+      {
+        "rank": 20,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 0.897
+      },
+      {
+        "rank": 21,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.887
+      },
+      {
+        "rank": 22,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 0.843
+      },
+      {
+        "rank": 23,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 0.826
+      },
+      {
+        "rank": 24,
+        "ticker": "BA",
+        "name": "Boeing Co.",
+        "weight": 0.808
+      },
+      {
+        "rank": 25,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.767
+      }
+    ],
+    "2019": [
+      {
+        "rank": 1,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 4.297
+      },
+      {
+        "rank": 2,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 3.852
+      },
+      {
+        "rank": 3,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 2.92
+      },
+      {
+        "rank": 4,
+        "ticker": "META",
+        "name": "Facebook, Inc. Class A",
+        "weight": 1.734
+      },
+      {
+        "rank": 5,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.651
+      },
+      {
+        "rank": 6,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.523
+      },
+      {
+        "rank": 7,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.491
+      },
+      {
+        "rank": 8,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 1.481
+      },
+      {
+        "rank": 9,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.382
+      },
+      {
+        "rank": 10,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 1.26
+      },
+      {
+        "rank": 11,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.209
+      },
+      {
+        "rank": 12,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 1.203
+      },
+      {
+        "rank": 13,
+        "ticker": "T",
+        "name": "AT&T, Inc.",
+        "weight": 1.119
+      },
+      {
+        "rank": 14,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 1.03
+      },
+      {
+        "rank": 15,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 1.011
+      },
+      {
+        "rank": 16,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 0.989
+      },
+      {
+        "rank": 17,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 0.982
+      },
+      {
+        "rank": 18,
+        "ticker": "DIS",
+        "name": "Walt Disney Co.",
+        "weight": 0.95
+      },
+      {
+        "rank": 19,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.924
+      },
+      {
+        "rank": 20,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 0.911
+      },
+      {
+        "rank": 21,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.873
+      },
+      {
+        "rank": 22,
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc.",
+        "weight": 0.849
+      },
+      {
+        "rank": 23,
+        "ticker": "KO",
+        "name": "Coca-Cola Co.",
+        "weight": 0.848
+      },
+      {
+        "rank": 24,
+        "ticker": "UNH",
+        "name": "UnitedHealth Group, Inc.",
+        "weight": 0.833
+      },
+      {
+        "rank": 25,
+        "ticker": "CMCSA",
+        "name": "Comcast Corp. Class A",
+        "weight": 0.828
+      }
+    ],
+    "2020": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 6.681
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 5.712
+      },
+      {
+        "rank": 3,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 4.811
+      },
+      {
+        "rank": 4,
+        "ticker": "META",
+        "name": "Facebook, Inc. Class A",
+        "weight": 2.26
+      },
+      {
+        "rank": 5,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 1.58
+      },
+      {
+        "rank": 6,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.548
+      },
+      {
+        "rank": 7,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.515
+      },
+      {
+        "rank": 8,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.407
+      },
+      {
+        "rank": 9,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 1.242
+      },
+      {
+        "rank": 10,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 1.21
+      },
+      {
+        "rank": 11,
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp.",
+        "weight": 1.198
+      },
+      {
+        "rank": 12,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 1.073
+      },
+      {
+        "rank": 13,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 1.072
+      },
+      {
+        "rank": 14,
+        "ticker": "UNH",
+        "name": "UnitedHealth Group, Inc.",
+        "weight": 1.064
+      },
+      {
+        "rank": 15,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.053
+      },
+      {
+        "rank": 16,
+        "ticker": "VZ",
+        "name": "Verizon Communications, Inc.",
+        "weight": 0.883
+      },
+      {
+        "rank": 17,
+        "ticker": "ADBE",
+        "name": "Adobe, Inc.",
+        "weight": 0.844
+      },
+      {
+        "rank": 18,
+        "ticker": "PYPL",
+        "name": "PayPal Holdings, Inc.",
+        "weight": 0.83
+      },
+      {
+        "rank": 19,
+        "ticker": "CRM",
+        "name": "salesforce.com, Inc.",
+        "weight": 0.821
+      },
+      {
+        "rank": 20,
+        "ticker": "DIS",
+        "name": "Walt Disney Co.",
+        "weight": 0.805
+      },
+      {
+        "rank": 21,
+        "ticker": "NFLX",
+        "name": "Netflix, Inc.",
+        "weight": 0.792
+      },
+      {
+        "rank": 22,
+        "ticker": "INTC",
+        "name": "Intel Corp.",
+        "weight": 0.789
+      },
+      {
+        "rank": 23,
+        "ticker": "CMCSA",
+        "name": "Comcast Corp. Class A",
+        "weight": 0.757
+      },
+      {
+        "rank": 24,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.753
+      },
+      {
+        "rank": 25,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 0.732
+      }
+    ],
+    "2021": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 6.086
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 5.803
+      },
+      {
+        "rank": 3,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 3.919
+      },
+      {
+        "rank": 4,
+        "ticker": "META",
+        "name": "Facebook, Inc. Class A",
+        "weight": 2.216
+      },
+      {
+        "rank": 5,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 2.205
+      },
+      {
+        "rank": 6,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 2.057
+      },
+      {
+        "rank": 7,
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight": 1.723
+      },
+      {
+        "rank": 8,
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp.",
+        "weight": 1.414
+      },
+      {
+        "rank": 9,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.386
+      },
+      {
+        "rank": 10,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.34
+      },
+      {
+        "rank": 11,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.164
+      },
+      {
+        "rank": 12,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 1.03
+      },
+      {
+        "rank": 13,
+        "ticker": "UNH",
+        "name": "UnitedHealth Group, Inc.",
+        "weight": 1.009
+      },
+      {
+        "rank": 14,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.956
+      },
+      {
+        "rank": 15,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 0.929
+      },
+      {
+        "rank": 16,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 0.861
+      },
+      {
+        "rank": 17,
+        "ticker": "DIS",
+        "name": "Walt Disney Co.",
+        "weight": 0.842
+      },
+      {
+        "rank": 18,
+        "ticker": "PYPL",
+        "name": "PayPal Holdings, Inc.",
+        "weight": 0.837
+      },
+      {
+        "rank": 19,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 0.83
+      },
+      {
+        "rank": 20,
+        "ticker": "ADBE",
+        "name": "Adobe, Inc.",
+        "weight": 0.751
+      },
+      {
+        "rank": 21,
+        "ticker": "NFLX",
+        "name": "Netflix, Inc.",
+        "weight": 0.74
+      },
+      {
+        "rank": 22,
+        "ticker": "CRM",
+        "name": "salesforce.com, Inc.",
+        "weight": 0.722
+      },
+      {
+        "rank": 23,
+        "ticker": "CMCSA",
+        "name": "Comcast Corp. Class A",
+        "weight": 0.702
+      },
+      {
+        "rank": 24,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 0.682
+      },
+      {
+        "rank": 25,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 0.66
+      }
+    ],
+    "2022": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 6.928
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 5.765
+      },
+      {
+        "rank": 3,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 3.324
+      },
+      {
+        "rank": 4,
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight": 2.345
+      },
+      {
+        "rank": 5,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 1.904
+      },
+      {
+        "rank": 6,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.711
+      },
+      {
+        "rank": 7,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.598
+      },
+      {
+        "rank": 8,
+        "ticker": "UNH",
+        "name": "UnitedHealth Group, Inc.",
+        "weight": 1.568
+      },
+      {
+        "rank": 9,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.426
+      },
+      {
+        "rank": 10,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.208
+      },
+      {
+        "rank": 11,
+        "ticker": "META",
+        "name": "Meta Platforms, Inc. Class A",
+        "weight": 1.027
+      },
+      {
+        "rank": 12,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.017
+      },
+      {
+        "rank": 13,
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp.",
+        "weight": 1.009
+      },
+      {
+        "rank": 14,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 1.002
+      },
+      {
+        "rank": 15,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 0.964
+      },
+      {
+        "rank": 16,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.941
+      },
+      {
+        "rank": 17,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 0.859
+      },
+      {
+        "rank": 18,
+        "ticker": "LLY",
+        "name": "Eli Lilly & Co.",
+        "weight": 0.846
+      },
+      {
+        "rank": 19,
+        "ticker": "PFE",
+        "name": "Pfizer, Inc.",
+        "weight": 0.815
+      },
+      {
+        "rank": 20,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 0.805
+      },
+      {
+        "rank": 21,
+        "ticker": "ABBV",
+        "name": "AbbVie, Inc.",
+        "weight": 0.788
+      },
+      {
+        "rank": 22,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc.",
+        "weight": 0.747
+      },
+      {
+        "rank": 23,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.724
+      },
+      {
+        "rank": 24,
+        "ticker": "KO",
+        "name": "Coca-Cola Co.",
+        "weight": 0.723
+      },
+      {
+        "rank": 25,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 0.701
+      }
+    ],
+    "2023": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 7.005
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 6.531
+      },
+      {
+        "rank": 3,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 3.213
+      },
+      {
+        "rank": 4,
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp.",
+        "weight": 2.991
+      },
+      {
+        "rank": 5,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 2.162
+      },
+      {
+        "rank": 6,
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight": 1.924
+      },
+      {
+        "rank": 7,
+        "ticker": "META",
+        "name": "Meta Platforms, Inc. Class A",
+        "weight": 1.858
+      },
+      {
+        "rank": 8,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.853
+      },
+      {
+        "rank": 9,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.779
+      },
+      {
+        "rank": 10,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.311
+      },
+      {
+        "rank": 11,
+        "ticker": "UNH",
+        "name": "UnitedHealth Group, Inc.",
+        "weight": 1.3
+      },
+      {
+        "rank": 12,
+        "ticker": "LLY",
+        "name": "Eli Lilly & Co.",
+        "weight": 1.193
+      },
+      {
+        "rank": 13,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.174
+      },
+      {
+        "rank": 14,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 1.044
+      },
+      {
+        "rank": 15,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 1.029
+      },
+      {
+        "rank": 16,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 0.957
+      },
+      {
+        "rank": 17,
+        "ticker": "AVGO",
+        "name": "Broadcom, Inc.",
+        "weight": 0.954
+      },
+      {
+        "rank": 18,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 0.917
+      },
+      {
+        "rank": 19,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.846
+      },
+      {
+        "rank": 20,
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "weight": 0.833
+      },
+      {
+        "rank": 21,
+        "ticker": "ABBV",
+        "name": "AbbVie, Inc.",
+        "weight": 0.733
+      },
+      {
+        "rank": 22,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.727
+      },
+      {
+        "rank": 23,
+        "ticker": "COST",
+        "name": "Costco Wholesale Corp.",
+        "weight": 0.697
+      },
+      {
+        "rank": 24,
+        "ticker": "PEP",
+        "name": "PepsiCo, Inc.",
+        "weight": 0.649
+      },
+      {
+        "rank": 25,
+        "ticker": "ADBE",
+        "name": "Adobe, Inc.",
+        "weight": 0.647
+      }
+    ],
+    "2024": [
+      {
+        "rank": 1,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 7.279
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 6.571
+      },
+      {
+        "rank": 3,
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp.",
+        "weight": 6.138
+      },
+      {
+        "rank": 4,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 3.576
+      },
+      {
+        "rank": 5,
+        "ticker": "META",
+        "name": "Meta Platforms, Inc. Class A",
+        "weight": 2.57
+      },
+      {
+        "rank": 6,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 1.997
+      },
+      {
+        "rank": 7,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.732
+      },
+      {
+        "rank": 8,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.65
+      },
+      {
+        "rank": 9,
+        "ticker": "AVGO",
+        "name": "Broadcom, Inc.",
+        "weight": 1.65
+      },
+      {
+        "rank": 10,
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight": 1.492
+      },
+      {
+        "rank": 11,
+        "ticker": "LLY",
+        "name": "Eli Lilly & Co.",
+        "weight": 1.436
+      },
+      {
+        "rank": 12,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.233
+      },
+      {
+        "rank": 13,
+        "ticker": "UNH",
+        "name": "UnitedHealth Group, Inc.",
+        "weight": 1.109
+      },
+      {
+        "rank": 14,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 1.07
+      },
+      {
+        "rank": 15,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 0.944
+      },
+      {
+        "rank": 16,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 0.838
+      },
+      {
+        "rank": 17,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 0.837
+      },
+      {
+        "rank": 18,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.826
+      },
+      {
+        "rank": 19,
+        "ticker": "COST",
+        "name": "Costco Wholesale Corp.",
+        "weight": 0.807
+      },
+      {
+        "rank": 20,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 0.802
+      },
+      {
+        "rank": 21,
+        "ticker": "WMT",
+        "name": "Walmart, Inc.",
+        "weight": 0.721
+      },
+      {
+        "rank": 22,
+        "ticker": "ABBV",
+        "name": "AbbVie, Inc.",
+        "weight": 0.717
+      },
+      {
+        "rank": 23,
+        "ticker": "NFLX",
+        "name": "Netflix, Inc.",
+        "weight": 0.625
+      },
+      {
+        "rank": 24,
+        "ticker": "MRK",
+        "name": "Merck & Co., Inc.",
+        "weight": 0.592
+      },
+      {
+        "rank": 25,
+        "ticker": "KO",
+        "name": "Coca-Cola Co.",
+        "weight": 0.573
+      }
+    ],
+    "2025": [
+      {
+        "rank": 1,
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp.",
+        "weight": 7.984
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 6.752
+      },
+      {
+        "rank": 3,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 6.627
+      },
+      {
+        "rank": 4,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 3.737
+      },
+      {
+        "rank": 5,
+        "ticker": "META",
+        "name": "Meta Platforms, Inc. Class A",
+        "weight": 2.793
+      },
+      {
+        "rank": 6,
+        "ticker": "AVGO",
+        "name": "Broadcom, Inc.",
+        "weight": 2.721
+      },
+      {
+        "rank": 7,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 2.48
+      },
+      {
+        "rank": 8,
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight": 2.188
+      },
+      {
+        "rank": 9,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.994
+      },
+      {
+        "rank": 10,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.617
+      },
+      {
+        "rank": 11,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.521
+      },
+      {
+        "rank": 12,
+        "ticker": "LLY",
+        "name": "Eli Lilly & Co.",
+        "weight": 1.064
+      },
+      {
+        "rank": 13,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 1.017
+      },
+      {
+        "rank": 14,
+        "ticker": "NFLX",
+        "name": "Netflix, Inc.",
+        "weight": 0.893
+      },
+      {
+        "rank": 15,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 0.843
+      },
+      {
+        "rank": 16,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 0.823
+      },
+      {
+        "rank": 17,
+        "ticker": "ORCL",
+        "name": "Oracle Corp.",
+        "weight": 0.817
+      },
+      {
+        "rank": 18,
+        "ticker": "WMT",
+        "name": "Walmart, Inc.",
+        "weight": 0.793
+      },
+      {
+        "rank": 19,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 0.783
+      },
+      {
+        "rank": 20,
+        "ticker": "PLTR",
+        "name": "Palantir Technologies, Inc. Class A",
+        "weight": 0.727
+      },
+      {
+        "rank": 21,
+        "ticker": "COST",
+        "name": "Costco Wholesale Corp.",
+        "weight": 0.72
+      },
+      {
+        "rank": 22,
+        "ticker": "ABBV",
+        "name": "AbbVie, Inc.",
+        "weight": 0.717
+      },
+      {
+        "rank": 23,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.707
+      },
+      {
+        "rank": 24,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 0.631
+      },
+      {
+        "rank": 25,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 0.616
+      }
+    ],
+    "2026": [
+      {
+        "rank": 1,
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp.",
+        "weight": 7.984
+      },
+      {
+        "rank": 2,
+        "ticker": "MSFT",
+        "name": "Microsoft Corp.",
+        "weight": 6.752
+      },
+      {
+        "rank": 3,
+        "ticker": "AAPL",
+        "name": "Apple, Inc.",
+        "weight": 6.627
+      },
+      {
+        "rank": 4,
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "weight": 3.737
+      },
+      {
+        "rank": 5,
+        "ticker": "META",
+        "name": "Meta Platforms, Inc. Class A",
+        "weight": 2.793
+      },
+      {
+        "rank": 6,
+        "ticker": "AVGO",
+        "name": "Broadcom, Inc.",
+        "weight": 2.721
+      },
+      {
+        "rank": 7,
+        "ticker": "GOOGL",
+        "name": "Alphabet, Inc. Class A",
+        "weight": 2.48
+      },
+      {
+        "rank": 8,
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "weight": 2.188
+      },
+      {
+        "rank": 9,
+        "ticker": "GOOG",
+        "name": "Alphabet, Inc. Class C",
+        "weight": 1.994
+      },
+      {
+        "rank": 10,
+        "ticker": "BRK.B",
+        "name": "Berkshire Hathaway, Inc. Class B",
+        "weight": 1.617
+      },
+      {
+        "rank": 11,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.521
+      },
+      {
+        "rank": 12,
+        "ticker": "LLY",
+        "name": "Eli Lilly & Co.",
+        "weight": 1.064
+      },
+      {
+        "rank": 13,
+        "ticker": "V",
+        "name": "Visa, Inc. Class A",
+        "weight": 1.017
+      },
+      {
+        "rank": 14,
+        "ticker": "NFLX",
+        "name": "Netflix, Inc.",
+        "weight": 0.893
+      },
+      {
+        "rank": 15,
+        "ticker": "XOM",
+        "name": "Exxon Mobil Corp.",
+        "weight": 0.843
+      },
+      {
+        "rank": 16,
+        "ticker": "MA",
+        "name": "Mastercard, Inc. Class A",
+        "weight": 0.823
+      },
+      {
+        "rank": 17,
+        "ticker": "ORCL",
+        "name": "Oracle Corp.",
+        "weight": 0.817
+      },
+      {
+        "rank": 18,
+        "ticker": "WMT",
+        "name": "Walmart, Inc.",
+        "weight": 0.793
+      },
+      {
+        "rank": 19,
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 0.783
+      },
+      {
+        "rank": 20,
+        "ticker": "PLTR",
+        "name": "Palantir Technologies, Inc. Class A",
+        "weight": 0.727
+      },
+      {
+        "rank": 21,
+        "ticker": "COST",
+        "name": "Costco Wholesale Corp.",
+        "weight": 0.72
+      },
+      {
+        "rank": 22,
+        "ticker": "ABBV",
+        "name": "AbbVie, Inc.",
+        "weight": 0.717
+      },
+      {
+        "rank": 23,
+        "ticker": "HD",
+        "name": "Home Depot, Inc.",
+        "weight": 0.707
+      },
+      {
+        "rank": 24,
+        "ticker": "PG",
+        "name": "Procter & Gamble Co.",
+        "weight": 0.631
+      },
+      {
+        "rank": 25,
+        "ticker": "BAC",
+        "name": "Bank of America Corp.",
+        "weight": 0.616
+      }
+    ]
+  },
+  "sourcesByYear": {
+    "1994": "Zenodo S&P 500 component weightings (year-end)",
+    "1995": "Zenodo S&P 500 component weightings (year-end)",
+    "1996": "Zenodo S&P 500 component weightings (year-end)",
+    "1997": "Zenodo S&P 500 component weightings (year-end)",
+    "1998": "Zenodo S&P 500 component weightings (year-end)",
+    "1999": "Zenodo S&P 500 component weightings (year-end)",
+    "2000": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2001": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2002": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2003": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2004": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2005": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2006": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2007": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2008": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2009": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2010": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2011": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2012": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2013": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2014": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2015": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2016": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2017": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2018": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2019": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2020": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2021": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2022": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2023": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2024": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2025": "SPY annual holdings (ETF proxy for S&P 500 weights)",
+    "2026": "Carried forward from 2025 SPY holdings (approximate)"
+  },
+  "meta": {
+    "topNStored": 25,
+    "approxYears": [
+      2026
+    ],
+    "sources": [
+      "Shvetsov, Nikita. U.S. & Global Stock Indices Constituents & Changes Database. Zenodo. https://doi.org/10.5281/zenodo.7789601 (CC BY 4.0)",
+      "SPDR S&P 500 ETF (SPY) annual holdings compiled as Kaggle dataset 'S&P 500 Holdings and Weights (09/30/2000-2024)' plus 2025 snapshot"
+    ]
+  }
+}

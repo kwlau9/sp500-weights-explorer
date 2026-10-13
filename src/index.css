@@ -1,0 +1,40 @@
+:root {
+  --forest: #203b32;
+  --green: #47795e;
+  --orange: #c8643e;
+  --muted: #879188;
+  --line: #dfe5dd;
+  --paper: #f8faf6;
+  --body: 'Avenir Next', Avenir, 'Helvetica Neue', sans-serif;
+  --display: 'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Georgia, serif;
+
+  font-family: var(--body);
+  color: #33473d;
+  background-color: var(--paper);
+  background-image: repeating-linear-gradient(0deg, transparent 0 39px, rgba(34, 67, 49, 0.018) 39px 40px);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100svh;
+}
+
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+p {
+  margin: 0;
+}
