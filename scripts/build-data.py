@@ -3,12 +3,13 @@
 
 Sources (no network):
   - data/raw/sp500-weightings-1979-2023.xlsx  (Zenodo, Shvets, CC BY 4.0)
-  - data/raw/spy-holdings/YYYY.csv            (SPY annual holdings, 2000–2025)
+    - data/raw/spy-holdings/YYYY.csv            (SPY annual holdings, 2000–2025)
+    - data/raw/spy-holdings/2026.csv            (Slickcharts market-cap proxy snapshot)
 
 Year coverage:
   1994–1999  year-end snapshot from Zenodo
   2000–2025  SPY holdings CSVs (preferred when both exist)
-  2026       carry-forward of 2025, marked approximate
+    2026       Slickcharts market-cap weights, marked approximate
 """
 
 from __future__ import annotations
@@ -198,13 +199,16 @@ def main() -> None:
     for year in range(START_YEAR, END_YEAR + 1):
         if year in spy:
             by_year[str(year)] = spy[year]
-            sources_by_year[str(year)] = "SPY annual holdings (ETF proxy for S&P 500 weights)"
+            if year == 2026:
+                sources_by_year[str(year)] = (
+                    "Slickcharts S&P 500 market-cap weights (retrieved 2026-10-17; "
+                    "SPY proxy, estimate; not official float-adjusted index weights)"
+                )
+            else:
+                sources_by_year[str(year)] = "SPY annual holdings (ETF proxy for S&P 500 weights)"
         elif year in zenodo:
             by_year[str(year)] = zenodo[year]
             sources_by_year[str(year)] = "Zenodo S&P 500 component weightings (year-end)"
-        elif year == 2026 and "2025" in by_year:
-            by_year["2026"] = spy[2025]
-            sources_by_year["2026"] = "Carried forward from 2025 SPY holdings (approximate)"
 
     missing = [y for y in range(START_YEAR, END_YEAR + 1) if str(y) not in by_year]
     if missing:
@@ -220,6 +224,7 @@ def main() -> None:
             "sources": [
                 "Shvetsov, Nikita. U.S. & Global Stock Indices Constituents & Changes Database. Zenodo. https://doi.org/10.5281/zenodo.7789601 (CC BY 4.0)",
                 "SPDR S&P 500 ETF (SPY) annual holdings compiled as Kaggle dataset 'S&P 500 Holdings and Weights (09/30/2000-2024)' plus 2025 snapshot",
+                "Slickcharts, S&P 500 Companies by Market Cap. https://www.slickcharts.com/sp500 (2026-10-17 snapshot; 2026 estimate, market-cap proxy)",
             ],
         },
     }

@@ -4903,152 +4903,152 @@
       {
         "rank": 1,
         "ticker": "NVDA",
-        "name": "NVIDIA Corp.",
-        "weight": 7.984
+        "name": "Nvidia Corp",
+        "weight": 7.48
       },
       {
         "rank": 2,
-        "ticker": "MSFT",
-        "name": "Microsoft Corp.",
-        "weight": 6.752
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
+        "weight": 7.16
       },
       {
         "rank": 3,
-        "ticker": "AAPL",
-        "name": "Apple, Inc.",
-        "weight": 6.627
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight": 5.6
       },
       {
         "rank": 4,
         "ticker": "AMZN",
-        "name": "Amazon.com, Inc.",
-        "weight": 3.737
+        "name": "Amazon.com Inc",
+        "weight": 3.89
       },
       {
         "rank": 5,
-        "ticker": "META",
-        "name": "Meta Platforms, Inc. Class A",
-        "weight": 2.793
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc. Class A Common Stock",
+        "weight": 3.08
       },
       {
         "rank": 6,
-        "ticker": "AVGO",
-        "name": "Broadcom, Inc.",
-        "weight": 2.721
+        "ticker": "GOOG",
+        "name": "Alphabet Inc. Class C Capital Stock",
+        "weight": 2.87
       },
       {
         "rank": 7,
-        "ticker": "GOOGL",
-        "name": "Alphabet, Inc. Class A",
-        "weight": 2.48
+        "ticker": "META",
+        "name": "Meta Platforms, Inc. Class A Common Stock",
+        "weight": 2.62
       },
       {
         "rank": 8,
-        "ticker": "TSLA",
-        "name": "Tesla, Inc.",
-        "weight": 2.188
+        "ticker": "AVGO",
+        "name": "Broadcom Inc. Common Stock",
+        "weight": 2.28
       },
       {
         "rank": 9,
-        "ticker": "GOOG",
-        "name": "Alphabet, Inc. Class C",
-        "weight": 1.994
+        "ticker": "TSLA",
+        "name": "Tesla, Inc. Common Stock",
+        "weight": 2.02
       },
       {
         "rank": 10,
         "ticker": "BRK.B",
-        "name": "Berkshire Hathaway, Inc. Class B",
-        "weight": 1.617
+        "name": "Berkshire Hathaway Class B",
+        "weight": 1.62
       },
       {
         "rank": 11,
-        "ticker": "JPM",
-        "name": "JPMorgan Chase & Co.",
-        "weight": 1.521
+        "ticker": "LLY",
+        "name": "Eli Lilly & Co.",
+        "weight": 1.6
       },
       {
         "rank": 12,
-        "ticker": "LLY",
-        "name": "Eli Lilly & Co.",
-        "weight": 1.064
+        "ticker": "MU",
+        "name": "Micron Technology, Inc.",
+        "weight": 1.44
       },
       {
         "rank": 13,
-        "ticker": "V",
-        "name": "Visa, Inc. Class A",
-        "weight": 1.017
+        "ticker": "WMT",
+        "name": "Walmart Inc. Common Stock",
+        "weight": 1.34
       },
       {
         "rank": 14,
-        "ticker": "NFLX",
-        "name": "Netflix, Inc.",
-        "weight": 0.893
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "weight": 1.29
       },
       {
         "rank": 15,
-        "ticker": "XOM",
-        "name": "Exxon Mobil Corp.",
-        "weight": 0.843
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "weight": 1.26
       },
       {
         "rank": 16,
-        "ticker": "MA",
-        "name": "Mastercard, Inc. Class A",
-        "weight": 0.823
+        "ticker": "V",
+        "name": "VISA Inc.",
+        "weight": 1.08
       },
       {
         "rank": 17,
-        "ticker": "ORCL",
-        "name": "Oracle Corp.",
-        "weight": 0.817
+        "ticker": "XOM",
+        "name": "ExxonMobil Holdings Corporation",
+        "weight": 1.03
       },
       {
         "rank": 18,
-        "ticker": "WMT",
-        "name": "Walmart, Inc.",
-        "weight": 0.793
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight": 0.88
       },
       {
         "rank": 19,
-        "ticker": "JNJ",
-        "name": "Johnson & Johnson",
-        "weight": 0.783
+        "ticker": "MA",
+        "name": "Mastercard Incorporated",
+        "weight": 0.77
       },
       {
         "rank": 20,
-        "ticker": "PLTR",
-        "name": "Palantir Technologies, Inc. Class A",
-        "weight": 0.727
-      },
-      {
-        "rank": 21,
-        "ticker": "COST",
-        "name": "Costco Wholesale Corp.",
+        "ticker": "ABBV",
+        "name": "ABBVIE INC.",
         "weight": 0.72
       },
       {
+        "rank": 21,
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight": 0.69
+      },
+      {
         "rank": 22,
-        "ticker": "ABBV",
-        "name": "AbbVie, Inc.",
-        "weight": 0.717
+        "ticker": "PLTR",
+        "name": "Palantir Technologies Inc. Class A Common Stock",
+        "weight": 0.64
       },
       {
         "rank": 23,
-        "ticker": "HD",
-        "name": "Home Depot, Inc.",
-        "weight": 0.707
+        "ticker": "COST",
+        "name": "Costco Wholesale Corp",
+        "weight": 0.63
       },
       {
         "rank": 24,
-        "ticker": "PG",
-        "name": "Procter & Gamble Co.",
-        "weight": 0.631
+        "ticker": "CVX",
+        "name": "Chevron Corporation",
+        "weight": 0.62
       },
       {
         "rank": 25,
-        "ticker": "BAC",
-        "name": "Bank of America Corp.",
-        "weight": 0.616
+        "ticker": "CSCO",
+        "name": "Cisco Systems, Inc. Common Stock (DE)",
+        "weight": 0.61
       }
     ]
   },
@@ -5085,7 +5085,7 @@
     "2023": "SPY annual holdings (ETF proxy for S&P 500 weights)",
     "2024": "SPY annual holdings (ETF proxy for S&P 500 weights)",
     "2025": "SPY annual holdings (ETF proxy for S&P 500 weights)",
-    "2026": "Carried forward from 2025 SPY holdings (approximate)"
+    "2026": "Slickcharts S&P 500 market-cap weights (retrieved 2026-10-17; SPY proxy, estimate; not official float-adjusted index weights)"
   },
   "meta": {
     "topNStored": 25,
@@ -5094,7 +5094,8 @@
     ],
     "sources": [
       "Shvetsov, Nikita. U.S. & Global Stock Indices Constituents & Changes Database. Zenodo. https://doi.org/10.5281/zenodo.7789601 (CC BY 4.0)",
-      "SPDR S&P 500 ETF (SPY) annual holdings compiled as Kaggle dataset 'S&P 500 Holdings and Weights (09/30/2000-2024)' plus 2025 snapshot"
+      "SPDR S&P 500 ETF (SPY) annual holdings compiled as Kaggle dataset 'S&P 500 Holdings and Weights (09/30/2000-2024)' plus 2025 snapshot",
+      "Slickcharts, S&P 500 Companies by Market Cap. https://www.slickcharts.com/sp500 (2026-10-17 snapshot; 2026 estimate, market-cap proxy)"
     ]
   }
 }
